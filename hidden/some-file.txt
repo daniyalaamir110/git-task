@@ -1,0 +1,1 @@
+This file is under hidden folder but since its extension is not .html, it will be tracked
